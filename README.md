@@ -33,3 +33,7 @@ git push
 [git-scm.com](https://git-scm.com/) 
 ### VS code:
 [code.visualstudio.com](https://code.visualstudio.com/)
+### Шрифты:
+[fonts.google](https://fonts.google.com/)
+### анимация материал:
+[animaition](http://htmlbook.ru/metki/animaciya)
